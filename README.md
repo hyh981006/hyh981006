@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=mayandev)
 
+![](https://github-readme-stats.vercel.app/api?username=mayandev&theme=dark)
+
+
